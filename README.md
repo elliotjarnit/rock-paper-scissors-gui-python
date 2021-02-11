@@ -1,2 +1,8 @@
 # rock-paper-scissors-gui-python
-A very simple rock paper scissors game made in python using TKinter GUI
+
+This is a very simple GUI based rock, paper, scissors game made in python.
+
+# Required packages
+
+TKinter
+Random
